@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant":{"type":"virtualbox","guestpath":"/vagrant","hostpath":"/Users/jirenz/git/otus/manual_kernel_update","disabled":false,"create":true,"automount":true,"__vagrantfile":true}}}
